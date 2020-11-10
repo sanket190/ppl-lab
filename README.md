@@ -17,10 +17,13 @@ List of PPL Lab Experiments
 
 6.Write a program to implement various types of geometrical shapes like circle, triangle, square, polygon, and octagon. Circle, triangle, square, polygon, octagon are child classes of base class shape; Square is a polygon, octagon is a polygon.
 
-7.Write a program to demonstrate event and event handlers using Object Oriented Programming.
+7.Write a program to raise an exception and handle it.
 
-8.Write a program to raise an exception and handle it.
+8.Write a program to demonstrate event and event handlers using Object Oriented Programming.
 
-9 Write a function in LISP to find nth element from a list of m elements.
+9 Implement a decision support system for course tracking at a institute using PROLOG. A course is floated by a teacher from a particular department. Various students will enroll a course. Single student can enroll for multiple courses (maximum five per course) provided the student clears the prerequisite courses. A teacher can teach at the most two courses in a semester.
 
-10Implement a decision support system for course tracking at a institute using PROLOG. A course is floated by a teacher from a particular department. Various students will enroll a course. Single student can enroll for multiple courses (maximum five per course) provided the student clears the prerequisite courses. A teacher can teach at the most two courses in a semester.
+
+10 Write a function in LISP to find nth element from a list of m elements.
+
+
