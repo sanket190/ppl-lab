@@ -9,9 +9,9 @@ List of PPL Lab Experiments
 
 2.Use objdump to read the object file of a C program and demonstrate how a stack frame is built and destroyed.
 
-3.Use gdb to read assembly code for C program to find factorial of a number with recursion and demonstrate how parameters are passed using pass by value.
+3.Use gdb to read assembly code for C program  and there images
 
-4.Explain how pass by reference works, using assembly code generated using g++ -S on a C++ program.
+4.Explain and implementation of buffere overflow and shell code
 
 5.Write a program to develop a software to introduce animals to kids. Implement classes for animals like Dog, Cat, Elephant, Fish etc. With constructor destructor interfaces and variables with public or private access specifies.
 
